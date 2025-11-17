@@ -1,0 +1,14 @@
+# Лабораторна робота 4: Багатопотокова структура даних
+
+build/
+bin/
+*.txt
+*.exe
+*.o
+*.obj
+.vs/
+.vscode/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
